@@ -1,0 +1,8 @@
+C:\Users\PJAYACHANDRAN\source\repos\BasicMath\obj\Debug\BasicMaths.csproj.AssemblyReference.cache
+C:\Users\PJAYACHANDRAN\source\repos\BasicMath\obj\Debug\BasicMaths.csproj.SuggestedBindingRedirects.cache
+C:\Users\PJAYACHANDRAN\source\repos\BasicMath\obj\Debug\BasicMaths.csproj.CoreCompileInputs.cache
+C:\Users\PJAYACHANDRAN\source\repos\BasicMath\bin\Debug\BasicMath.exe.config
+C:\Users\PJAYACHANDRAN\source\repos\BasicMath\bin\Debug\BasicMath.exe
+C:\Users\PJAYACHANDRAN\source\repos\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\PJAYACHANDRAN\source\repos\BasicMath\obj\Debug\BasicMath.exe
+C:\Users\PJAYACHANDRAN\source\repos\BasicMath\obj\Debug\BasicMath.pdb

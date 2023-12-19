@@ -1,0 +1,14 @@
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\bin\Debug\net8.0\ConsoleApp1Demo.exe
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\bin\Debug\net8.0\ConsoleApp1Demo.deps.json
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\bin\Debug\net8.0\ConsoleApp1Demo.runtimeconfig.json
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\bin\Debug\net8.0\ConsoleApp1Demo.dll
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\bin\Debug\net8.0\ConsoleApp1Demo.pdb
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\ConsoleApp1Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\ConsoleApp1Demo.AssemblyInfoInputs.cache
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\ConsoleApp1Demo.AssemblyInfo.cs
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\ConsoleApp1Demo.csproj.CoreCompileInputs.cache
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\ConsoleApp1Demo.dll
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\refint\ConsoleApp1Demo.dll
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\ConsoleApp1Demo.pdb
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\ConsoleApp1Demo.genruntimeconfig.cache
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1Demo\obj\Debug\net8.0\ref\ConsoleApp1Demo.dll

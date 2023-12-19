@@ -1,0 +1,5 @@
+C:\Users\PJAYACHANDRAN\source\repos\MyProject\obj\Debug\net7.0\MyProject.csproj.AssemblyReference.cache
+C:\Users\PJAYACHANDRAN\source\repos\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PJAYACHANDRAN\source\repos\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\PJAYACHANDRAN\source\repos\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Users\PJAYACHANDRAN\source\repos\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache

@@ -1,0 +1,336 @@
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace HelloUniverse
+{
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+           /* System.Console.WriteLine("Welcome to the Universe!!");
+            Console.WriteLine("Hello World!");
+
+            string name = "Paru";
+            Console.WriteLine(name); //Variable
+
+            int myNum = 15; //long for 8 bytes
+            long myNuml = 15000000000L;
+            Console.WriteLine(myNuml);
+            Console.WriteLine(myNum); //variable
+
+            double myDoubleNum = 5.99D; //float for 8 bytes
+            float myNumf = 5.75F;
+            Console.WriteLine(myNumf);
+            char myLetter = 'D';
+            bool myBool = true;
+            string myText = "Hello";
+
+            Console.WriteLine(myDoubleNum);
+            Console.WriteLine(myLetter);
+            Console.WriteLine(myBool);
+            Console.WriteLine(myText);
+
+            const int myNum1 = 27; // variable always store the same value
+            Console.WriteLine(myNum1);
+
+            string firstName = "Edward";
+            string lastName = "Chris";
+            string fullName = firstName + lastName;
+            Console.WriteLine(fullName);
+            Console.WriteLine("Welcome " + fullName);
+
+            float f1 = 35e3F;
+            double d1 = 12E4D;
+            Console.WriteLine(f1);
+            Console.WriteLine(d1);
+
+
+            Console.WriteLine("I am Learning C#");
+            Console.WriteLine("It is awesome!");
+            Console.WriteLine(3 + 3);
+            Console.Write("I am grateful to learn this today"); // Checking Write vs WriteLine
+            //The code below will print the words Hello World to the screen, and it is amazing 
+
+            Console.Write("I am success");
+
+
+            //Implicit Casting
+
+            int myInt = 9;
+            double myDouble = 9;
+            Console.WriteLine(myDouble);
+            Console.WriteLine(myInt);
+
+            //Explicit Casting
+            double myDouble1 = 9.78;
+            int myInt1 = (int)myDouble;
+            Console.WriteLine(myInt1);
+            Console.WriteLine(myDouble1);
+
+            //Coversion
+
+            int myInt2 = 10;
+            double myDouble2 = 5.25;
+            bool myBool2 = true;
+
+            Console.WriteLine(Convert.ToString(myInt2));    // convert int to string
+            Console.WriteLine(Convert.ToDouble(myInt2));    // convert int to double
+            Console.WriteLine(Convert.ToInt32(myDouble2));  // convert double to int
+            Console.WriteLine(Convert.ToInt64(myDouble2));  // convert double to long
+            Console.WriteLine(Convert.ToString(myBool2));   // convert bool to string
+
+
+            /* Console.WriteLine("Enter username:");
+             string username = Console.ReadLine();
+             Console.WriteLine("Username is " +username);*/
+
+/*
+            // Operators & Math
+
+            int x = 10;
+            int y = 12;
+
+            Console.WriteLine(Math.Max(x, y));
+            Console.WriteLine(Math.Min(x, y));
+            Console.WriteLine(Math.Sqrt(x));
+            Console.WriteLine(Math.Abs(-4.4));
+            Console.WriteLine(Math.Round(9.99));
+
+            //Strings
+
+            string greet1 = "Hello!!";
+            string greet2 = "Have a nice day!!";
+
+            String greeting = greet1 + greet2;
+
+            Console.WriteLine("Length of greeting message is " + greeting.Length); //Length - String Property
+            Console.WriteLine(greeting.ToLower());
+            Console.WriteLine(greeting.ToUpper()); //String Methods
+
+            Console.WriteLine(string.Concat(greet1, greet2)); // string.Concat() method
+
+
+            //Access Strings
+
+            string accessString = "Hello";
+            Console.WriteLine(accessString[0]); //Output H
+            Console.WriteLine(accessString[1]); //Output e
+
+            //Find index of string
+
+            Console.WriteLine(accessString.IndexOf("e")); //Output 1
+
+            // string interpolation - substitute the values of variables into placeholder in string
+
+            string greeting2 = $"My greeting is: {greet1} {greet2}"; //string interpolation $"string {} {}"
+            Console.WriteLine(greeting2);
+
+            /*Substring(), which extracts the characters from a string, starting from the specified character position/index, and returns a new string. 
+             This method is often used together with IndexOf() to get the specific character position*/
+/*
+            string fullName1 = "Porkodi Jayachandran";
+
+            int charPos = fullName1.IndexOf("J"); //Location of letter J
+
+            string lastName1 = fullName1.Substring(charPos);
+            string lastName2 = fullName1.Substring(0);
+            Console.WriteLine(lastName1);
+            Console.WriteLine(lastName2);
+
+
+            // Special Characters
+
+            string txt = "We are the so-called \"Vikings\" from the East. It\'s alright";
+            Console.WriteLine(txt);
+
+
+            //boolean
+            bool isCSharpFun = true;
+            bool isFishTasty = false;
+            Console.WriteLine(isCSharpFun);   // Outputs True
+            Console.WriteLine(isFishTasty);   // Outputs False
+
+
+            //int myAge;
+            int votingAge = 18;
+
+            Console.WriteLine("Welcome to voting portal");
+            Console.WriteLine("Enter your age");
+            int myAge = Convert.ToInt32(Console.ReadLine()); //To convert the string to int use convert. "Toint"
+
+
+            if (myAge == votingAge)
+            {
+                Console.WriteLine("You are eligible to vote, please apply!");
+            }
+            else if (myAge > votingAge)
+            {
+                Console.WriteLine("You are old enough to vote!");
+            }
+            else
+            {
+                Console.WriteLine("Not old enough to vote.");
+            }
+*/
+            /*short-hand if else, which is known as the ternary operator because it consists of three operands. 
+             * It can be used to replace multiple lines of code with a single line*/
+
+ /*           string result = (myAge >= 18) ? "You are old enough to vote!" : "Not old enough to vote.";
+            Console.WriteLine(result);
+
+
+            // Use the switch statement to select one of many code blocks to be executed.
+
+
+
+
+            Console.WriteLine("Finding day in Calendar Week");
+            Console.WriteLine("Enter the day");
+            int day = Convert.ToInt32(Console.ReadLine());
+
+            switch (day)
+            {
+                case 0:
+                    Console.WriteLine("Monday");
+                    break;
+                case 1:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 3:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 4:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 5:
+                    Console.WriteLine("Friday");
+                    break;
+                /*case 6:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 7:
+                    Console.WriteLine("Sunday");
+                    break; //breaks out of the switch block, "ignores" the execution of all the rest of the code in the switch block.
+
+                default: //The default keyword is optional and specifies some code to run if there is no case match:
+                    Console.WriteLine("Its a weekend.");
+                    break;
+            }
+            */
+            /*
+                        // Loops can execute a block of code as long as a specified condition is reached.
+
+                        // While Loop - while loop loops through a block of code as long as a specified condition is True
+
+                        int i = 0;
+                        while(i<5)
+                        {
+                            Console.WriteLine(i);
+                            i++; //Do not forget to increase the variable used in the condition, otherwise the loop will never end!
+                        }
+
+
+                        // Do While - loop will execute the code block once, before checking if the condition is true and repeat until condition as true
+
+                        int j = 0;
+                        do
+                        {
+                            Console.WriteLine(j);
+                            j++;
+                        }
+                        while (j < 5); */
+
+/*
+            //When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop:
+
+            // print even values between 0 and 10
+            for (int i = 0; i <= 10; i = i + 2)
+            {
+                Console.WriteLine(i);
+            }
+
+            //Nested Loops - The "inner loop" will be executed one time for each iteration of the "outer loop"
+
+            //Outer Loop
+            for (int i = 1; i <= 2; i++)
+            {
+                Console.WriteLine("Outer: " + i); //Execute 2 times
+
+                //Inner Loop
+                for (int j = 1; j <= 3; j++)
+                {
+                    Console.WriteLine("Inner: " + j); //Execute 3 * 2 times
+                    if (j == 1)
+                    {
+                        continue;
+                        //Console.WriteLine("Continue");
+                    }
+                }
+
+            }
+           */ 
+                       /* //foreach loop, which is used exclusively to loop through elements in an array:
+
+                        string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
+                        foreach (string i in cars)
+                        {
+                            Console.WriteLine(i);
+                        }*/
+          
+/*
+            // Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+
+
+            Console.WriteLine ("Cars List");
+
+            string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
+            cars[0] = "Opel";
+
+            string[] carsnew;
+            carsnew = new string[] {"car1", "car2"};
+
+            for (int i = 0; i < cars.Length; i++)
+            {
+                Console.WriteLine(cars[i]);
+
+            }
+
+            Console.WriteLine("Cars List after sorting");
+
+            Array.Sort(cars);
+            foreach (string ca in cars)
+            {
+                Console.WriteLine(ca);
+            }
+
+
+            int[] myNumbers = { 5, 1, 8, 9 };
+            Console.WriteLine(myNumbers.Max());  // returns the largest value
+            Console.WriteLine(myNumbers.Min());  // returns the smallest value
+            Console.WriteLine(myNumbers.Sum());  // returns the sum of elements*/
+
+
+
+
+
+
+
+
+
+
+
+            System.Diagnostics.Debug.WriteLine("Test");
+
+            Console.ReadLine();
+
+        }
+
+        }
+
+    }

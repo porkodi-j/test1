@@ -1,0 +1,10 @@
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\bin\Debug\MathLibraryDemo.dll
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\bin\Debug\MathLibraryDemo.pdb
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\PJAYACHANDRAN\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

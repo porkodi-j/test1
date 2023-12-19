@@ -1,0 +1,17 @@
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\MathOperationsTest.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\MathOperationsTest.pdb
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\MathLibrary.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\MathLibrary.pdb
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\obj\Debug\MathOperationsTest.csproj.AssemblyReference.cache
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\obj\Debug\MathOperationsTest.csproj.CoreCompileInputs.cache
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\obj\Debug\MathOperationsTest.csproj.CopyComplete
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\obj\Debug\MathOperationsTest.dll
+C:\Users\PJAYACHANDRAN\source\repos\MathOperationsTest\obj\Debug\MathOperationsTest.pdb

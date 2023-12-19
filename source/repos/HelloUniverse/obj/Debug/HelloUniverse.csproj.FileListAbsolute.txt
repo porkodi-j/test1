@@ -1,0 +1,8 @@
+C:\Users\PJAYACHANDRAN\source\repos\HelloUniverse\bin\Debug\HelloUniverse.exe.config
+C:\Users\PJAYACHANDRAN\source\repos\HelloUniverse\bin\Debug\HelloUniverse.exe
+C:\Users\PJAYACHANDRAN\source\repos\HelloUniverse\bin\Debug\HelloUniverse.pdb
+C:\Users\PJAYACHANDRAN\source\repos\HelloUniverse\obj\Debug\HelloUniverse.csproj.AssemblyReference.cache
+C:\Users\PJAYACHANDRAN\source\repos\HelloUniverse\obj\Debug\HelloUniverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\PJAYACHANDRAN\source\repos\HelloUniverse\obj\Debug\HelloUniverse.csproj.CoreCompileInputs.cache
+C:\Users\PJAYACHANDRAN\source\repos\HelloUniverse\obj\Debug\HelloUniverse.exe
+C:\Users\PJAYACHANDRAN\source\repos\HelloUniverse\obj\Debug\HelloUniverse.pdb
